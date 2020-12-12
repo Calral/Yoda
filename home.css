@@ -1,0 +1,53 @@
+#abc{
+			position: absolute;
+	
+			width: 55%;
+			top: 60%;
+			left: 50%;
+			
+			transform: translate(-50%, -50%);
+			height: 50%;
+			
+			/*font-size: 3;*/
+			
+			margin: auto;
+			text-align: center;
+			/*right: 0%;*/
+		}
+
+p{
+			font-family: franklin-gothic-urw, sans-serif;
+			font-weight: 500;
+			font-style: normal;
+			padding:5%;
+			color:white;
+			font-size:30px;
+		}
+
+#video{
+position: fixed;
+z-index: -1;
+object-fit: cover;
+top: 0;
+left: 0;
+height: 100vh;
+width: 100vw;
+
+
+}
+
+
+
+
+#last{
+margin-bottom:60%;
+}
+
+
+
+
+
+#arrow{
+	height: 100px;
+	padding:20%;
+}
