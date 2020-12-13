@@ -1,32 +1,17 @@
 #abc{
 			position: absolute;
-	
 			width: 70%;
 			top: 15%;
 			left: 50%;
-			
 			transform: translate(-50%, -50%);
 			height: 30%;
-			
 			/*font-size: 3;*/
-			
 			/*margin: auto;*/
 			text-align: center;
 			/*right: 0%;*/
-			
 		}
-.fade-in-section {
-  opacity: 0;
-  transform: translateY(20vh);
-  visibility: hidden;
-  transition: opacity 0.6s ease-out, transform 1.2s ease-out;
-  will-change: opacity, visibility;
-}
-.fade-in-section.is-visible {
-  opacity: 1;
-  transform: none;
-  visibility: visible;
-}
+
+		
 p{
 			font-family: franklin-gothic-urw, sans-serif;
 			font-weight: 500;
@@ -57,7 +42,6 @@ margin-bottom: 60%;
 #arrow{
 	height: 75px;
 	top: 4%;
-
 }
 
 
